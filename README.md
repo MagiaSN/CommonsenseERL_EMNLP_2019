@@ -44,4 +44,4 @@ For the transitive sentence similarity task, run this script:
 
 ## Models
 
-The best model for each task can be downloaded from: <TODO>
+The best model for each task can be downloaded [here](https://drive.google.com/open?id=1seOoilUdx4E3D9nKQiT9xZuWStgr8GXm).
