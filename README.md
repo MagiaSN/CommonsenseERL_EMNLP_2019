@@ -8,8 +8,6 @@ This repository contains code for the EMNLP 2019 paper: *Event Representation Le
 
 - Python3
 
-- PyTorch 0.4.1
-
 ## Data
 
 The original hard similarity dataset, the hard similarity dataset annotated by us, and the transitive sentence similarity dataset are released together with the code. The file format is processed for convenience.
