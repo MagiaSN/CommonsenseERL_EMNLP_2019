@@ -14,11 +14,11 @@ The original hard similarity dataset, the hard similarity dataset annotated by u
 
 NYT, ATOMIC and other datasets need to be downloaded separately.
 
-The pretrained word embedding can be downloaded from: https://drive.google.com/open?id=1Jw-X-mVci5VbKg0Gl0ZRRwhgfgyiZ7Vc. We add embeddings for word "PersonX" and "PersonY" to the original Glove word embedding.
+The pretrained word embedding can be downloaded [here](https://drive.google.com/open?id=1Jw-X-mVci5VbKg0Gl0ZRRwhgfgyiZ7Vc). We add embeddings for word "PersonX" and "PersonY" to the original Glove word embedding.
 
 ## Preprocessing
 
-See https://github.com/MagiaSN/commonsense_event_repr_emnlp19/blob/master/preproc/README.md
+See [this](https://github.com/MagiaSN/commonsense_event_repr_emnlp19/blob/master/preproc/README.md).
 
 ## Train
 
