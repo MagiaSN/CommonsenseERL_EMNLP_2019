@@ -12,11 +12,11 @@ This repository contains code for the EMNLP 2019 paper: *Event Representation Le
 
 ## Data
 
-The original hard similarity dataset, the hard similarity dataset annotated by us, and the transitive sentence similarity dataset is released together with the code. The file format is processed for convenience.
+The original hard similarity dataset, the hard similarity dataset annotated by us, and the transitive sentence similarity dataset are released together with the code. The file format is processed for convenience.
 
 NYT, ATOMIC and other datasets need to be downloaded separately.
 
-The pretrained word embedding can be downloaded from: <TODO>. We add embeddings for word "PersonX" and "PersonY" to the original Glove word embedding.
+The pretrained word embedding can be downloaded from: https://drive.google.com/open?id=1Jw-X-mVci5VbKg0Gl0ZRRwhgfgyiZ7Vc. We add embeddings for word "PersonX" and "PersonY" to the original Glove word embedding.
 
 ## Preprocessing
 
