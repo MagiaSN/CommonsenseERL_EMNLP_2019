@@ -1,0 +1,1000 @@
+company | abandon | system | institute | give up | facility | company | abandon | system | company | abandon | plan
+he | abandon | campaign | he | quit | election | he | abandon | campaign | he | abandon | business
+captain | abandon | ship | driver | escape | car | captain | abandon | ship | captain | abandon | stance
+administration | abandon | city | military | withdraw from | town | administration | abandon | city | administration | abandon | idea
+he | abandon | home | man | leave | motherland | he | abandon | home | he | abandon | dog
+they | abandon | rules | people | break | law | they | abandon | rules | the | abandon | efforts
+people | aboard | flight | husband | take | planes | people | aboard | flight | sailors | aboard | battleship
+businessman | accelerate | car | driver | speed up | bus | businessman | accelerate | car | businessman | accelerate | investment
+i | accept | fact | he | face | reality | i | accept | fact | i | accept | gift
+i | accept | heartache | he | catch | illness | i | accept | heartache | i | accept | gift
+they | accept | job | he | agree with | employment | they | accept | job | they | accept | shelter
+company | accept | women | organization | hire | female | company | accept | women | company | accept | plans
+he | accept | compromise | they | reach | agreement | he | accept | compromise | he | accept | salary
+officier | accept | proposal | governor | adopt | suggestion | officier | accept | proposal | officier | accept | gift
+you | accept | wine | he | is satisfied with | beer | you | accept | wine | you | accept | invitation
+he | accept | opportunity | she | grasp | chance | he | accept | opportunity | he | accept | help
+he | accompany | mother | man | stay with | family | he | accompany | mother | he | accompany | colleague
+company | accounting | errors | department | check | issues | company | accounting | errors | company | accounting | bills
+magazine | acquire | subscribers | newspaper | attract | readers | magazine | acquire | subscribers | magazine | acquire | income
+we | address | problem | they | handle | issue | we | address | problem | we | address | suggestions
+he | address | wounds | doctor | treat | bruise | he | address | wounds | he | address | criticism
+he | admire | girl | man | fall in love with | lady | he | admire | girl | he | admire | art
+man | adopt | plan | member | accept | proposal | man | adopt | plan | man | adopt | kids
+he | alter | schedules | she | change | time | he | alter | schedules | he | alter | name
+he | amass | fortune | man | accumulate | wealth | he | amass | fortune | he | amass | troops
+scientists | analyze | water | doctor | diagnose | patient | scientists | analyze | water | scientists | analyze | formula
+he | announce | nominee | man | declare | candidates | he | announce | nominee | he | announce | plan
+he | answer | violence | mother | fight against | bullying | he | answer | violence | he | answer | question
+she | answer | telephone | woman | receives | phone call | she | answer | telephone | she | answer | question
+i | appreciate | music | he | enjoys | jazz | i | appreciate | music | i | appreciate | teacher
+i | appreciate | sea | he | admire | nature | i | appreciate | sea | i | appreciate | chief
+i | appreciate | teacher | he | thank | mentor | i | appreciate | teacher | i | appreciate | sport
+he | arrange | time | she | make | schedule | he | arrange | time | he | arrange | financing
+they | arrange | trip | we | prepare for | travel | they | arrange | trip | they | arrange | marriages
+i | ask for | appointment | he | apply for | job | i | ask for | appointment | i | ask for | water
+i | ask for | help | he | seek for | assistance | i | ask for | help | i | ask for | permission
+i | ask for | advice | he | seek for | suggestions | i | ask for | advice | i | ask for | answer
+professor | assess | damage | engineer | evaluate | loss | professor | assess | damage | professor | assess | achievement
+professor | attack | theory | scholar | argue against | research | professor | attack | theory | professor | attack | woman
+teenager | attend | lessons | student | go to | school | teenager | attend | lessons | teenager | attend | weddings
+he | attend | conference | she | appear at | meeting | he | attend | conference | he | attend | game
+company | attract | investment | organizations | achieve | cooperation | company | attract | investment | company | attract | investigation
+politician | attract | voters | campaigner | win | followers | politician | attract | voters | politician | attract | police
+officier | approve | access | government | authorize | entering | officier | approve | access | officier | approve | plan
+government | avoid | parade | mayer | avert | strike | government | avoid | parade | government | avoid | interview
+party | avoid | expense | government | cut | budgets | party | avoid | expense | party | avoid | criticism
+he | tackle | problems | she | solve | puzzle | he | tackle | problems | he | tackle | player
+he | tackle | classics | she | study | history | he | tackle | classics | he | tackle | market
+he | tailor | law | she | adjust | rule | he | tailor | law | he | tailor | reports
+he | take | nap | she | go to | sleep | he | take | nap | he | take | money
+we | take | care | they | watch | themselves | we | take | care | we | take | umbrella
+we | take | tour | they | go on | a trip | we | take | tour | we | take | umbrella
+i | take | risk | he | rush into | danger | i | take | risk | i | take | pen
+they | take | course | we | have | lessons | they | take | course | they | take | jewelry
+people | take | vacations | man | have | holidays | people | take | vacations | people | take | bus
+she | take | bus | he | drive | car | she | take | bus | she | take | food
+man | take | exercise | teenager | do | sports | man | take | exercise | man | take | wallet
+he | take | pictures | she | capture | photos | he | take | pictures | he | take | books
+he | take | pills | i | have | medicine | he | take | pills | he | take | phone
+he | take | advantage | we | grasp | opportunity | he | take | advantage | he | take | plane
+we | take | action | he | make | move | we | take | action | we | take | care
+he | take | advice | she | accept | suggestions | he | take | advice | he | take | money
+student | take | exam | trainee | go through | test | student | take | exam | student | take | backpack
+he | tell | jokes | she | break | jest | he | tell | jokes | he | tell | parent
+he | tell | stories | she | narrate | events | he | tell | stories | he | tell | sister
+they | test | system | we | check | devices | they | test | system | they | test | will
+they | throw | football | we | play | basketball | they | throw | football | they | throw | bomb
+they | thwart | investigation | he | obstruct | research | they | thwart | investigation | they | thwart | competition
+player | tie | game | athlete | reach | draw | player | tie | game | player | tie | shoelaces
+we | tighten | belts | he | tie | shoelaces | we | tighten | belts | we | tighten | rules
+i | toss | coin | he | roll | dice | i | toss | coin | i | toss | head
+man | train | trainee | teacher | teach | students | man | train | trainee | man | train | dogs
+businessman | transfer | goods | postman | deliver | mails | businessman | transfer | goods | businessman | transfer | information
+host | treat | guests | man | entertain | friends | host | treat | guests | host | treat | disease
+guest | try | food | customer | taste | dishes | guest | try | food | guest | try | ideas
+he | understand | importance | she | realised | necessity | he | understand | importance | he | understand | lessons
+company | upgrade | system | man | update | software | company | upgrade | system | company | upgrade | equipment
+i | use | laptop | he | operate | computer | i | use | laptop | i | use | bicycle
+we | use | currency | they | spend | money | we | use | currency | we | use | weapons
+he | use | drugs | she | take | medicine | he | use | drugs | he | use | money
+i | use | camera | she | take | photos | i | use | camera | i | use | weapon
+man | verify | identities | guard | authenticate | visitor | man | verify | identities | man | identify | quality
+president | veto | bill | senate | deny | legislation | president | veto | bill | president | veto | war
+we | view | home | they | visit | family | we | view | home | we | view | story
+he | visit | country | she | travel | town | he | visit | country | he | visit | parents
+he | visit | website | she | search | internet | he | visit | website | he | visit | parents
+they | halt | campaign | we | stop | war | they | halt | campaign | they | halt | decline
+we | halt | program | engineer | shutdown | system | we | halt | program | we | halt | effort
+he | halt | practice | she | give up | effort | he | halt | practice | he | halt | bombing
+he | hand over | weapon | soldier | give | rifle | he | hand over | weapon | he | hand over | purse
+they | handle | issues | we | deal with | problems | they | handle | issues | they | handle | planning
+we | hang | criminal | they | execute | murderer | we | hang | criminal | we | hang | picture
+i | hate | cake | he | dislike | pizza | i | hate | cake | i | hate | power
+i | hate | cake | i | refuse | sweets | i | hate | cake | i | hate | books
+he | hear | opinions | she | receive | suggestions | he | hear | opinions | he | hear | music
+they | hear | instruction | he | obey | order | they | hear | instruction | they | hear | appeals
+you | hear | rumors | he | understand | canard | you | hear | rumors | you | hear | music
+court | hear | appeal | courthouse | receive | case | court | hear | appeal | court | hear | scream
+they | heat | gasoline | we | warm | petrol | they | heat | gasoline | they | heat | vegetables
+he | help | homeless | she | rescue | orphan | he | help | homeless | he | help | candidates
+i | help | army | he | assist | military | i | help | army | i | help | family
+he | help | troops | we | assist | soldier | he | help | troops | he | help | doctor
+they | hide | evidence | i | conceal | proof | they | hide | evidence | he | hide | toy
+he | hide | fact | i | tell | lie | he | hide | fact | he | hide | book
+i | hide | position | he | conceal | himself | i | hide | position | i | hide | toy
+officials | hide | problem | worker | cover up | issues | officials | hide | problem | officials | hide | pleasure
+i | hit | basketball | he | kick | football | i | hit | basketball | i | hit | boy
+president | hold | conference | businessman | attend | meeting | president | hold | conference | president | hold | flower
+soldier | hold | guns | guard | take out | weapon | soldier | hold | guns | soldier | hold | child
+members | hold | concert | artist | put on | show | members | hold | concert | members | hold | breath
+we | honor | president | he | respect | leader | we | honor | president | we | honor | knowledge
+i | walk | home | he | go to | school | i | walk | home | i | walk | dog
+i | wash | car | driver | clean | bus | i | wash | car | i | wash | face
+they | waste | chance | he | give up | opportunity | they | waste | chance | they | waste | water
+i | watch | myself | he | take | care | i | watch | myself | i | watch | tv
+he | watch | family | she | visit | parents | he | watch | family | he | watch | game
+he | wave | banners | i | raise | flag | he | wave | banners | he | wave | knife
+writer | weave | fiction | author | write | novel | writer | weave | fiction | writer | weave | sweater
+he | win | honor | i | gain | respect | he | win | honor | he | win | election
+man | withdraw | complaint | they | stop | arguing | man | withdraw | complaint | man | withdraw | gun
+student | write | article | writer | publish | book | student | write | article | student | write | name
+he | forget | past | we | forget | before | he | forget | past | he | forget | reality
+they | override | rule | we | rewrite | law | they | override | rule | they | override | vetoes
+he | postpone | payment | we | defer | cost | he | postpone | payment | they | postpone | announcement
+he | overcome | stutter | i | correct | stammer | he | overcome | stutter | he | overcome | devil
+he | use | means | she | apply | method | he | use | means | he | use | leverage
+we | balance | budget | they | manage | costs | we | balance | budget | we | balance | pressures
+they | beat | lakers | celtics | defeat | detroit | they | beat | lakers | they | beat | clock
+he | beat | record | they | break | records | he | beat | record | he | beat | drum
+he | becoming | president | she | being | queen | he | becoming | president | he | becoming | friend
+they | begin | negotiations | people | start | talks | they | begin | negotiations | they | begin | career
+he | begin | fast | it | start | quickly | he | begin | fast | he | begin | talk
+it | block | door | he | barricade | gate | it | block | door | it | block | ad
+we | break | law | they | violate | rule | we | break | law | we | break | record
+we | break | play | she | stop | performance | we | break | play | we | break | leg
+he | bring | war | it | cause | battle | he | bring | war | he | bring | kids
+she | bring | news | it | deliver | message | she | bring | news | she | bring | children
+it | bring | prices | that | raise | costs | it | bring | prices | it | bring | problems
+they | build | house | people | construct | buildings | they | build | house | they | build | future
+he | build | trust | we | develop | confidence | he | build | trust | he | build | team
+he | bury | face | she | cover | leg | he | bury | face | he | bury | bodies
+you | buy | computer | she | purchase | television | you | buy | computer | you | buy | senators
+he | call | mommy | she | phone | mother | he | call | mommy | he | call | names
+he | cancel | trip | she | cancel | events | he | cancel | trip | he | cancel | school
+we | capture | attention | it | catch | imagination | we | capture | attention | we | capture | moment
+it | capture | information | we | collect | news | it | capture | information | he | capture | scenes
+nobody | care about | poor | he | worry about | wife | nobody | care about | poor | nobody | care about | morality
+he | carry | bags | police | carry | guns | he | carry | bags | he | carry | reforms
+he | challenge | governor | we | doubt | professor | he | challenge | governor | he | challenge | puzzles
+i | change | mind | we | alter | plans | i | change | mind | i | change | jobs
+he | change | approach | i | adjust | methods | he | change | approach | he | change | everything
+bank | charge | commission | landlord | collect | rent | bank | charge | commission | bank | charge | criminal
+he | charge | thief | she | accuse | rapist | he | charge | thief | he | charge | money
+i | charge | fee | he | charge | price | i | charge | fee | i | charge | battery
+he | climb | everest | they | ascend | path | he | climb | everest | he | climb | third
+she | close | door | he | shut | window | she | close | door | she | close | restaurants
+he | come to | moscow | she | arrive at | miami | he | come to | moscow | he | come to | campaign
+i | come to | hunt | they | go to | swim | i | come to | hunt | i | come to | washington
+he | commit | suicide | she | kill | herself | he | commit | suicide | he | commit | himself
+i | conceal | anger | he | hide | happiness | i | conceal | anger | i | conceal | meat
+he | conduct | research | we | perform | study | he | conduct | research | he | conduct | orchestra
+he | conduct | himself | she | behave | herself | he | conduct | himself | he | conduct | polls
+officials | confirm | plan | authority | ascertain | decision | officials | confirm | plan | officials | confirm | deaths
+they | construct | houses | we | build | pyramids | they | construct | houses | they | construct | team
+he | contact | police | she | call | mayor | he | contact | police | he | contact | shop
+we | continue | members | they | remain | officials | we | continue | members | we | continue | studies
+he | continue | efforts | they | keep | struggling | he | continue | efforts | he | continue | programs
+we | continue | progress | they | keep | going | we | continue | progress | we | continue | tradition
+government | control | weapon | they | restrict | guns | government | control | weapon | government | control | costs
+they | control | fate | you | seize | destiny | they | control | fate | they | control | crowd
+they | convince | consumers | he | persuade | customers | they | convince | consumers | they | convince | majority
+it | cost | time | this | need | money | it | cost | time | it | cost | lives
+it | cover | facts | he | conceal | scandal | it | cover | facts | it | cover | aspects
+we | create | products | they | invent | bulbs | we | create | products | we | create | crisis
+he | create | fund | she | found | company | he | create | fund | he | create | style
+he | cut | payments | they | reduce | prices | he | cut | payments | he | cut | fingers
+they | cut | expenses | we | lower | costs | they | cut | expenses | they | cut | trees
+he | cut | cake | she | slice | bread | he | cut | cake | he | cut | prices
+it | damage | relationship | it | destroy | friendship | it | damage | relationship | it | damage | basketball
+it | dampen | expectations | he | ruin | excitement | it | dampen | expectations | it | dampen | pants
+we | deal with | problem | they | cope with | difficulty | we | deal with | problem | we | deal with | deficit
+we | deal with | economists | they | associate with | executive | we | deal with | economists | we | deal with | injury
+he | deal with | issues | he | work on | problems | he | deal with | issues | he | deal with | debt
+we | debate | things | they | discuss | issues | we | debate | things | we | debate | much
+he | defeat | allies | they | win | enemy | he | defeat | allies | he | defeat | bill
+we | defeat | terrorists | they | win | rebels | we | defeat | terrorists | we | defeat | rules
+we | defend | country | they | protect | territory | we | defend | country | we | defend | ourselves
+he | defend | freedom | she | uphold | liberty | he | defend | freedom | he | defend | himself
+he | defuse | dispute | she | eliminate | disagreements | he | defuse | dispute | he | defuse | bomb
+they | defy | laws | he | disobey | rules | they | defy | laws | they | defy | vote
+he | delay | action | she | postpone | activity | he | delay | action | he | delay | purchase
+he | deliver | speech | she | give | talk | he | deliver | speech | he | deliver | package
+he | deliver | ball | i | pass | basketball | he | deliver | ball | he | deliver | series
+they | deliver | advice | we | provide | suggestions | they | deliver | advice | they | deliver | food
+he | deliver | cocaine | she | hand over | cigar | he | deliver | cocaine | he | deliver | stock
+we | demand | respect | i | need | admiration | we | demand | respect | we | demand | certificate
+she | demonstrate | skills | i | show | abilities | she | demonstrate | skills | she | demonstrate | research
+he | demonstrate | condition | she | illustrate | situation | he | demonstrate | condition | he | demonstrate | tricks
+he | denounce | penalty | we | condemn | punishment | he | denounce | penalty | he | denounce | idea
+he | deny | payment | she | reject | paying | he | deny | payment | he | deny | claims
+they | deny | responsibility | we | contradict | liability | they | deny | responsibility | they | deny | inquiry
+it | depict | feelings | that | describe | emotions | it | depict | feelings | it | depict | scene
+they | deploy | package | he | install | software | they | deploy | package | they | deploy | missiles
+he | deposit | money | she | keep | savings | he | deposit | money | he | deposit | soil
+he | describe | experiences | we | depict | stories | he | describe | experiences | he | describe | scenes
+he | describe | scenery | she | depict | landscape | he | describe | scenery | he | describe | life
+she | deserve | chance | i | be worth | opportunity | she | deserve | chance | she | deserve | punishment
+i | design | plans | she | make | schedules | i | design | plans | i | design | clock
+he | design | system | they | program | software | he | design | system | he | design | game
+it | destroy | economy | that | smash | market | it | destroy | economy | it | destroy | hope
+he | destroy | evidence | she | ruin | proof | he | destroy | evidence | he | destroy | planet
+they | destroy | cars | it | wreck | ships | they | destroy | cars | they | destroy | marriage
+it | detect | problems | they | find | defects | it | detect | problems | it | detect | tumor
+they | determine | cause | she | deduce | reason | they | determine | cause | they | determine | trajectory
+they | determine | result | it | resolve | effect | they | determine | result | they | determine | future
+it | determine | standard | they | define | criterion | it | determine | standard | it | determine | fate
+it | determine | champion | that | decide | winner | it | determine | champion | it | determine | results
+they | develop | economies | it | promote | finance | they | develop | economies | they | develop | habits
+they | develop | plan | she | make up | schedules | they | develop | plan | they | develop | management
+he | devote | speech | he | give | talk | he | devote | speech | he | devote | himself
+he | devote to | operation | she | dedicate to | action | he | devote to | operation | he | devote to | art
+it | discover | people | they | find | lives | it | discover | people | it | discover | city
+she | discuss | contents | he | talk about | details | she | discuss | contents | she | discuss | crisis
+they | discuss | plans | we | deliberate | ideas | they | discuss | plans | they | discuss | incidents
+we | discuss | question | they | talk over | topic | we | discuss | question | we | discuss | events
+he | dispel | label | she | remove | tag | he | dispel | label | he | dispel | doubts
+he | dispel | label | she | remove | tag | he | dispel | label | he | dispel | doubts
+bush | dispel | suggestion | he | reject | advice | bush | dispel | suggestion | bush | dispel | belief
+he | display | talents | she | show | skills | he | display | talents | he | display | art
+it | dispose of | savings | he | deal with | money | it | dispose of | savings | it | dispose of | portion
+they | disrupt | event | he | interrupt | activity | they | disrupt | event | they | disrupt | voting
+he | dissect | personalities | she | analyze | industry | he | dissect | personalities | he | dissect | body
+they | distribute | leaflets | he | issue | flyers | they | distribute | leaflets | they | distribute | ballot
+we | distribute | product | they | release | application | we | distribute | product | we | distribute | albums
+they | divide | food | he | split | cake | they | divide | food | they | divide | america
+she | divulge | intentions | he | disclose | purpose | she | divulge | intentions | she | divulge | identity
+it | dominate | market | they | control | trade | it | dominate | market | it | dominate | lives
+he | donate | money | they | contribute | funds | he | donate | money | he | donate | blood
+he | doubt | abilities | she | distrust | capability | he | doubt | abilities | he | doubt | decision
+he | draft | bill | she | draft | legislation | he | draft | bill | he | draft | order
+we | draw | attention | they | attract | notice | we | draw | attention | we | draw | pictures
+he | draw | line | she | paint | pictures | he | draw | line | he | draw | partners
+we | draw | wagons | they | drag | carriage | we | draw | wagons | we | draw | map
+i | drink | beers | he | drink | whisky | i | drink | beers | i | drink | quart
+he | drink | quart | i | swallow | gallons | he | drink | quart | he | drink | water
+they | drive | cars | we | sail | ships | they | drive | cars | they | drive | bomb
+you | drive | truck | we | steer | ships | you | drive | truck | you | drive | miles
+we | drive | downtown | they | go | home | we | drive | downtown | we | drive | innovation
+it | drive | forces | they | expel | horses | it | drive | forces | it | drive | mob
+he | drop | proposal | she | decline | suggestions | he | drop | proposal | he | drop | demands
+company | drop | program | it | stop | plan | company | drop | program | company | drop | proposal
+he | drop | gift | she | give up | presents | he | drop | gift | he | drop | coin
+he | drop | action | they | abandon | plans | he | drop | action | he | drop | weapon
+he | earn | fee | she | make | money | he | earn | fee | he | earn | degree
+i | earn | certificate | he | gain | doctorate | i | earn | certificate | i | earn | trust
+she | earn | respect | they | deserve | admiration | she | earn | respect | she | earn | profit
+we | ease | tensions | they | release | pressure | we | ease | tensions | we | ease | tie-ups
+he | ease | tie-ups | she | loosen | clothes | he | ease | tie-ups | he | ease | burden
+i | eat | food | she | have | meal | i | eat | food | i | eat | nothing
+he | educate | child | she | foster | kid | he | educate | child | he | educate | investors
+we | educate | shareholders | they | teach | stockholders | we | educate | shareholders | we | educate | ourselves
+they | elect | governor | we | choose | president | they | elect | governor | they | elect | legislature
+we | eliminate | inefficiencies | they | improve | efficiency | we | eliminate | inefficiencies | we | eliminate | abortion
+they | eliminate | king | we | eradicate | monarch | they | eliminate | king | they | eliminate | jobs
+they | eliminate | risk | he | remove | hazard | they | eliminate | risk | they | eliminate | jobs
+he | eliminate | redundancy | we | get rid of | redundancy | he | eliminate | redundancy | he | eliminate | distractions
+he | eliminate | requirement | they | invalidate | rules | he | eliminate | requirement | he | eliminate | resemblance
+we | eliminate | barriers | they | remove | obstacles | we | eliminate | barriers | we | eliminate | class
+he | elude | detective | she | evade from | investigation | he | elude | detective | he | elude | fate
+he | elude | pursues | they | hide from | fans | he | elude | pursues | he | elude | enemy
+she | embody | music | he | concretize | fantasies | she | embody | music | she | embody | pleasures
+it | embody | nature | that | exemplify | science | it | embody | nature | it | embody | moods
+i | embrace | explanation | he | accept | response | i | embrace | explanation | i | embrace | her
+she | embrace | freedom | he | welcome | liberty | she | embrace | freedom | she | embrace | method
+he | embrace | business | we | accept | trade | he | embrace | business | he | embrace | hearth
+he | emphasize | agenda | we | underline | schedules | he | emphasize | agenda | he | emphasize | details
+i | emphasize | differences | she | punctuate | discrepancy | i | emphasize | differences | i | emphasize | health
+they | emphasize | priorities | we | underline | precedence | they | emphasize | priorities | they | emphasize | notions
+he | emphasize | precision | she | pay attention to | accuracy | he | emphasize | precision | he | emphasize | importance
+he | employ | employees | they | hire | staffs | he | employ | employees | he | employ | tools
+he | employ | method | he | use | strategy | he | employ | method | he | employ | workers
+i | employ | workers | we | recruit | technicians | i | employ | workers | i | employ | approaches
+they | emulate | heroes | we | imitate | father | they | emulate | heroes | they | emulate | achievement
+they | enact | legislations | we | pass | laws | they | enact | legislations | they | enact | performance
+we | enact | plan | they | make up | schemes | we | enact | plan | we | enact | ideas
+she | encourage | women | he | support | men | she | encourage | women | she | encourage | investment
+he | encourage | investment | we | promote | contribution | he | encourage | investment | he | encourage | freedom
+he | encourage | innovation | they | advocate | creativity | he | encourage | innovation | he | encourage | reforms
+he | encourage | reforms | she | advocate | changes | he | encourage | reforms | he | encourage | use
+he | end | conflict | she | stop | dispute | he | end | conflict | he | end | policy
+he | end | battle | they | stop | war | he | end | battle | he | end | talk
+he | end | life | she | commit | suicide | he | end | life | he | end | relationship
+he | endorse | opinion | she | support | claim | he | endorse | opinion | he | endorse | figures
+they | endorse | mayor | we | support | governor | they | endorse | mayor | they | endorse | policy
+officials | enforce | rules | police | execute | laws | officials | enforce | rules | officials | enforce | cooperation
+i | enjoy | research | he | love | study | i | enjoy | research | i | enjoy | walk
+i | enjoy | wine | he | like | alcohol | i | enjoy | wine | i | enjoy | myself
+they | enjoy | experience | we | like | process | they | enjoy | experience | they | enjoy | holidays
+he | enjoy | moment | she | relish | time | he | enjoy | moment | he | enjoy | sun
+he | enlist | support | they | seek | help | he | enlist | support | he | enlist | community
+he | enroll in | school | she | register at | school | he | enroll in | school | he | enroll in | fall
+we | ensure | victory | they | make sure | success | we | ensure | victory | we | ensure | preparedness
+he | enter | password | i | input | username | he | enter | password | he | enter | building
+it | enter | room | he | come in | house | it | enter | room | it | enter | orbit
+he | enter | army | i | join | party | he | enter | army | he | enter | park
+we | enter | village | they | come in | hamlet | we | enter | village | we | enter | age
+i | enter | college | she | enroll in | institution | i | enter | college | i | enter | home
+they | enter | contest | we | participate in | competition | they | enter | contest | they | enter | town
+she | enter | chapel | they | come in | church | she | enter | chapel | she | enter | politics
+we | eradicate | injustice | they | get rid of | unfairness | we | eradicate | injustice | we | eradicate | poverty
+we | eradicate | barriers | he | clear | obstacles | we | eradicate | barriers | we | eradicate | disease
+he | escape | scandal | she | evade | disgrace | he | escape | scandal | he | escape | police
+she | escape | problems | he | evade | trouble | she | escape | problems | she | escape | war
+he | escape | war | she | flee from | battle | he | escape | war | he | escape | rule
+we | establish | contact | they | create | relationship | we | establish | contact | we | establish | rules
+they | establish | standard | we | make | rules | they | establish | standard | they | establish | academies
+he | establish | system | we | create | organization | he | establish | system | he | establish | dynasty
+we | establish | protocol | we | conclude | rule | we | establish | protocol | we | establish | state
+we | establish | confidence | they | build up | faith | we | establish | confidence | we | establish | mechanism
+he | estimate | cost | she | calculate | toll | he | estimate | cost | he | estimate | value
+they | evacuate | zone | they | clear | area | they | evacuate | zone | they | evacuate | people
+he | evade | photographers | she | dodge | cameraman | he | evade | photographers | he | evade | police
+they | evaluate | performance | they | appraise | show | they | evaluate | performance | it | evaluate | bids
+it | evaluate | ability | they | assess | capability | it | evaluate | ability | it | evaluate | impact
+it | evoke | sense | this | invoke | spirit | it | evoke | sense | it | evoke | response
+they | evoke | fear | that | invoke | horror | they | evoke | fear | they | evoke | memories
+we | examine | consciences | they | inspect | inner voice | we | examine | consciences | we | examine | records
+he | examine | case | she | inspect | lawsuit | he | examine | case | he | examine | record
+he | examine | situation | they | investigate | circumstance | he | examine | situation | he | examine | system
+it | exhaust | capital | that | use up | money | it | exhaust | capital | it | exhaust | inventories
+it | expand | network | this | extend | net | it | expand | network | it | expand | capacity
+he | expand | space | they | enlarge | capacity | he | expand | space | he | expand | training
+he | expand | influence | she | broaden | impact | he | expand | influence | he | expand | tournaments
+he | expand | firm | she | enlarge | company | he | expand | firm | he | expand | selection
+he | expect | winter | we | look forward to | spring | he | expect | winter | he | expect | sentence
+we | expect | performance | they | look forward to | drama | we | expect | performance | we | expect | pass
+i | experience | problems | she | undergo | trouble | i | experience | problems | i | experience | symptoms
+we | explain | approaches | they | illustrate | methods | we | explain | approaches | we | explain | impact
+she | explain | question | we | clarify | doubt | she | explain | question | she | explain | contradictions
+they | explain | idea | we | state | claim | they | explain | idea | they | explain | math
+he | explain | things | she | analyze | problems | he | explain | things | he | explain | love
+we | exploit | tool | he | utilize | equipment | we | exploit | tool | we | exploit | technology
+i | explore | neighborhoods | we | search out | vicinity | i | explore | neighborhoods | i | explore | astrophysics
+we | explore | room | they | investigate | chamber | we | explore | room | we | explore | arithmetic
+he | express | love | she | show | passion | he | express | love | he | express | himself
+i | express | feelings | i | convey | thoughts | i | express | feelings | i | express | thanks
+he | express | concern | she | convey | worry | he | express | concern | he | express | love
+i | express | outrage | we | show | anger | i | express | outrage | i | express | loyalty
+he | extend | deadline | they | postpone | date | he | extend | deadline | he | extend | law
+they | extend | life | we | prolong | time | they | extend | life | they | extend | idea
+they | extend | law | we | augment | term | they | extend | law | they | extend | break
+he | extend | contract | she | supplement | agreement | he | extend | contract | he | extend | precedent
+he | face | officer | she | confront | officeholder | he | face | officer | he | face | charges
+she | face | fact | we | accept | reality | she | face | fact | she | face | guy
+we | face | punishment | they | receive | penalty | we | face | punishment | we | face | situation
+they | favor | policy | we | prefer | rule | they | favor | policy | they | favor | foods
+she | favor | parent | he | resemble | relative | she | favor | parent | she | favor | approach
+he | favor | plan | they | advocate | legislation | he | favor | plan | he | favor | republicans
+she | fear | death | he | dread | dying | she | fear | death | she | fear | opponent
+she | feed | baby | we | raise | child | she | feed | baby | she | feed | fish
+i | feel | relief | we | felt | ease | i | feel | relief | i | feel | pressure
+he | fight | enemy | he | resist | opponent | he | fight | enemy | he | fight | battle
+he | fight | cancer | they | struggle against | disease | he | fight | cancer | he | fight | terrorism
+we | figure | way | they | work out | solution | we | figure | way | we | figure | reason
+i | figure | plot | he | scheme | plan | i | figure | plot | i | figure | questions
+they | file | lawsuits | we | pigeonhole | suit | they | file | lawsuits | they | file | reports
+she | file | appeal | they | archive | charge | she | file | appeal | she | file | cases
+he | file | papers | she | archive | articles | he | file | papers | he | file | report
+he | file | letter | i | archive | message | he | file | letter | he | file | complaint
+it | fill | buildings | this | permeate | houses | it | fill | buildings | it | fill | seats
+it | fill | tank | this | pervade | pot | it | fill | tank | it | fill | truck
+you | fill | form | he | complete | table | you | fill | form | you | fill | bottle
+we | fill | void | they | overfill | space | we | fill | void | we | fill | gap
+he | finance | university | they | sponsor | college | he | finance | university | he | finance | projects
+he | finance | campaigns | we | support | activity | he | finance | campaigns | he | finance | plan
+they | finance | project | we | subsidize | program | they | finance | project | they | finance | construction
+she | find | way | he | discover | method | she | find | way | she | find | recruits
+you | find | evidence | we | discover | proof | you | find | evidence | you | find | way
+we | find | method | she | figure out | way | we | find | method | we | find | language
+he | find | help | she | get | assistance | he | find | help | he | find | place
+they | find | balance | they | discover | counterpoise | they | find | balance | they | find | weapons
+they | find | information | we | detect | news | they | find | information | they | find | problem
+i | find | job | he | get | occupation | i | find | job | i | find | mayor
+they | find | someone | we | discover | somebody | they | find | someone | they | find | way
+he | finish | draft | she | complete | sketch | he | finish | draft | he | finish | deal
+he | finish | work | i | accomplish | job | he | finish | work | he | finish | game
+he | finish | deal | we | complete | trade | he | finish | deal | he | finish | work
+she | finish | job | i | get done | work | she | finish | job | she | finish | call
+he | fix | problem | we | solve | trouble | he | fix | problem | he | fix | thing
+he | fix | vehicle | we | repair | car | he | fix | vehicle | he | fix | roof
+he | flee | cab | she | run off | car | he | flee | cab | he | flee | melee
+he | flee | city | i | leave | town | he | flee | city | he | flee | hotel
+he | fly | jets | i | drive | plane | he | fly | jets | he | fly | kite
+we | focus on | task | they | concentrate on | mission | we | focus on | task | we | focus on | team
+we | focus on | issues | he | pay attention to | problems | we | focus on | issues | we | focus on | people
+they | follow | lead | we | abide by | leader | they | follow | lead | they | follow | progress
+they | follow | guidelines | we | obey | rules | they | follow | guidelines | they | follow | path
+they | follow | cornerstone | he | observe | principles | they | follow | cornerstone | they | follow | example
+they | follow | pledge | he | comply with | promise | they | follow | pledge | they | follow | requirements
+we | force | people | i | compel | men | we | force | people | we | force | action
+we | forget | this | he | neglect | that | we | forget | this | we | forget | rule
+we | forgive | deceptions | they | excuse | cheats | we | forgive | deceptions | we | forgive | criminals
+he | forgo | career | she | give up | enterprise | he | forgo | career | he | forgo | vote
+he | forgo | venture | she | give up | enterprise | he | forgo | venture | he | forgo | trip
+he | forgo | party | we | abandon | celebration | he | forgo | party | he | forgo | dance
+he | forgo | competition | they | give up | contest | he | forgo | competition | he | forgo | speech
+he | form | company | he | establish | enterprise | he | form | company | he | form | tents
+we | form | organization | they | constitute | group | we | form | organization | we | form | bond
+he | form | committee | they | build | council | he | form | committee | he | form | bond
+he | foster | brand | they | build | trademark | he | foster | brand | he | foster | child
+we | foster | curiosity | we | develop | interest | we | foster | curiosity | we | foster | involvement
+he | found | group | she | establish | organization | he | found | group | he | found | book
+he | found | institute | they | construct | company | he | found | institute | he | found | person
+i | fulfill | dream | she | realize | target | i | fulfill | dream | i | fulfill | pledge
+i | fulfill | wish | she | satisfy | expectation | i | fulfill | wish | i | fulfill | promise
+he | gain | attention | she | get | heed | he | gain | attention | he | gain | support
+i | gain | confidence | we | get | faith | i | gain | confidence | i | gain | admission
+they | gain | approval | they | get | permission | they | gain | approval | they | gain | strength
+he | gain | admission | she | get | acceptance | he | gain | admission | he | gain | authority
+he | gain | strength | he | obtain | power | he | gain | strength | he | gain | recognition
+i | gain | certification | he | win | recognition | i | gain | certification | i | gain | points
+we | gain | respect | i | win | esteem | we | gain | respect | we | gain | points
+he | gain | freedom | we | obtain | liberty | he | gain | freedom | he | gain | weight
+she | gain | weight | he | increase in | mass | she | gain | weight | she | gain | control
+it | gather | flowers | this | collect | blooms | it | gather | flowers | it | gather | courage
+they | gather | data | we | assemble | material | they | gather | data | they | gather | savings
+it | gather | evidence | they | collect | proof | it | gather | evidence | it | gather | crowd
+it | generate | opportunities | this | yield | chances | it | generate | opportunities | it | generate | strain
+he | write | book | they | produce | novel | he | write | book | he | write | history
+he | write | music | she | compose | song | he | write | music | he | write | act
+i | write | film | he | produce | movie | i | write | film | i | write | classics
+i | write | play | she | produce | opera | i | write | play | i | write | article
+he | write | fiction | she | create | novel | he | write | fiction | he | write | description
+it | worth | expense | this | deserve | cost | it | worth | expense | it | worth | trip
+it | worth | risk | that | deserve | adventure | it | worth | risk | it | worth | battle
+i | worry about | things | he | care about | items | i | worry about | things | i | worry about | situation
+i | worry about | prices | we | be concerned about | cost | i | worry about | prices | i | worry about | drugs
+he | work with | children | she | deal with | kids | he | work with | children | he | work with | critics
+he | work on | project | they | engage in | program | he | work on | project | he | work on | script
+he | work on | campaigns | she | participate in | activities | he | work on | campaigns | he | work on | plan
+he | withdraw from | drug | she | quit | drug | he | withdraw from | drug | he | withdraw from | gulf
+he | withdraw from | territories | they | retract from | lands | he | withdraw from | territories | he | withdraw from | project
+they | win | war | we | succeed in | battle | they | win | war | they | win | election
+it | win | trust | they | obtain | credence | it | win | trust | it | win | game
+he | win | support | she | gain | help | he | win | support | he | win | approval
+we | win | championship | they | rank | first | we | win | championship | we | win | open
+he | win | case | they | succeed in | table | he | win | case | he | win | freedom
+we | win | majority | they | defeat | most people | we | win | majority | we | win | race
+they | welcome | neighbors | we | greet | people | they | welcome | neighbors | they | welcome | airlines
+he | wear | shirts | i | put on | blouse | he | wear | shirts | he | wear | mask
+i | wear | cap | she | put on | hat | i | wear | cap | i | wear | uniform
+you | watch | film | he | see | movie | you | watch | film | you | watch | eclipse
+i | watch | girl | we | look at | lady | i | watch | girl | i | watch | cartoons
+i | waste | time | we | squander | hours | i | waste | time | i | waste | money
+i | waste | opportunity | we | squander | chance | i | waste | opportunity | i | waste | breath
+i | wash | hands | he | clean | palms | i | wash | hands | i | wash | car
+he | warn | investors | she | remind | buyers | he | warn | investors | he | warn | world
+they | want | freedom | we | long for | liberty | they | want | freedom | they | want | dogs
+they | want | car | we | need | vehicle | they | want | car | they | want | information
+i | walk | fingers | we | move | thumb | i | walk | fingers | i | walk | dog
+he | visit | father | he | call | dad | he | visit | father | he | visit | friend
+i | visit | college | we | tour | university | i | visit | college | i | visit | family
+he | visit | lab | she | stroll around | laboratory | he | visit | lab | he | visit | country
+we | visit | town | we | tour | city | we | visit | town | we | visit | friends
+we | view | comedy | they | watch | opera | we | view | comedy | we | view | business
+he | veto | bill | she | turn down | act | he | veto | bill | he | veto | budget
+he | veto | measure | she | dismiss | actions | he | veto | measure | he | veto | version
+he | veto | plan | they | turn down | program | he | veto | plan | he | veto | legislation
+he | use | weapons | they | employ | arms | he | use | weapons | he | use | money
+he | use | technique | she | utilize | method | he | use | technique | he | use | savings
+i | use | talent | we | make use of | ability | i | use | talent | i | use | contract
+you | use | software | we | utilize | package | you | use | software | you | use | visa
+i | use | law | she | make use of | legislation | i | use | law | i | use | chain
+we | use | dollars | they | take advantage of | money | we | use | dollars | we | use | condom
+he | urge | officeholder | she | press | official | he | urge | officeholder | he | urge | council
+they | urge | government | we | hasten | authorities | they | urge | government | they | urge | business
+we | understand | languages | they | know | english | we | understand | languages | we | understand | situation
+she | understand | motivation | we | know | intention | she | understand | motivation | she | understand | meaning
+he | understand | importance | she | realize | significance | he | understand | importance | he | understand | scene
+they | understand | detail | we | know | information | they | understand | detail | they | understand | friendship
+they | undermine | church | we | destroy | chapel | they | undermine | church | they | undermine | process
+they | undermine | policy | he | weaken | rules | they | undermine | policy | they | undermine | ability
+he | try | method | she | test | means | he | try | method | he | try | sport
+she | try | program | he | undertake | project | she | try | program | she | try | recipe
+he | try | drug | she | test | medicine | he | try | drug | he | try | best
+i | trust | instincts | she | believe in | intuition | i | trust | instincts | i | trust | gestures
+they | trick | people | we | fool | public | they | trick | people | they | trick | court
+we | train | students | they | bring up | pupils | we | train | students | we | train | residents
+he | trade | arms | they | sell | weapons | he | trade | arms | he | trade | territory
+we | throw | bombs | they | launch | missiles | we | throw | bombs | we | throw | balls
+he | throw | bricks | we | cast | blocks | he | throw | bricks | he | throw | football
+i | throw | stones | he | cast | rocks | i | throw | stones | i | throw | ball
+i | test | theory | we | examine | principles | i | test | theory | i | test | device
+i | test | model | they | inspect | patterns | i | test | model | i | test | techniques
+you | help | neighbors | i | assist | kinsfolk | you | help | neighbors | you | help | expenses
+they | hide | aircraft | she | conceal | car | they | hide | aircraft | they | hide | profits
+he | hide | emotion | you | dissemble | feeling | he | hide | emotion | he | hide | toll
+he | hide | documents | i | cover up | file | he | hide | documents | he | hide | disgust
+we | hide | evidence | people | conceal | fact | we | hide | evidence | we | hide | belief
+they | hire | officers | he | employ | manager | they | hire | officers | they | hire | bus
+officials | hinder | penalty | i | block | shoot | officials | hinder | penalty | officials | hinder | investigation
+he | hire | actor | i | engage | singer | he | hire | actor | he | hire | service
+you | hit | wall | i | bang | ceiling | you | hit | wall | you | hit | run
+i | hit | bridge | they | blunder into | wall | i | hit | bridge | i | hit | airport
+you | hit | green | i | click | yellow | you | hit | green | you | hit | pediatricians
+he | hold | practice | boy | keep | practice | he | hold | practice | he | hold | conference
+he | honor | mother | we | respect | parents | he | honor | mother | he | honor | nature
+he | hold | conference | i | conduct | meeting | he | hold | conference | he | hold | end
+we | hold | pilots | i | control | driver | we | hold | pilots | we | hold | talks
+i | honor | commitment | you | keep | promise | i | honor | commitment | i | honor | mother
+we | hold | feet | he | rub | leg | we | hold | feet | we | hold | seminars
+we | hurt | treehouse | it | destroy | building | we | hurt | treehouse | we | hurt | ourselves
+she | identify | investors | he | distinguish | contenders | she | identify | investors | she | identify | plates
+we | identify | cause | i | find | reason | we | identify | cause | we | identify | members
+official | identify | museum | they | confirm | exhibition hall | official | identify | museum | official | identify | candidates
+you | identify | customer | i | confirm | buyer | you | identify | customer | you | identify | officer
+he | identify | murderer | i | recognize | assassin | he | identify | murderer | he | identify | companies
+she | identify | complainant | i | ensure | defendant | she | identify | complainant | she | identify | tenant
+he | identify | culprit | she | admit | mistake | he | identify | culprit | he | identify | parties
+i | fire | matches | we | lit | firewood | i | fire | matches | i | fire | employees
+he | ignore | report | i | forgot | speech | he | ignore | report | he | ignore | fans
+he | ignore | sport | we | neglect | motion | he | ignore | sport | he | ignore | argument
+he | ignore | whispers | i | disregard | gossip | he | ignore | whispers | he | ignore | models
+you | ignore | plight | i | brush aside | difficulty | you | ignore | plight | you | ignore | breakfast
+he | illustrate | solution | he | clarified | scheme | he | illustrate | solution | he | illustrate | poetry
+she | illuminate | room | he | lit | chamber | she | illuminate | room | she | illuminate | songs
+he | imagine | happiness | i | picture | gladness | he | imagine | happiness | he | imagine | myself
+i | imagine | killer | police | guess | victim | i | imagine | killer | i | imagine | scenario
+i | imagine | pain | i | fancy | ache | i | imagine | pain | i | imagine | depth
+he | immerse in | faith | he | devoted to | religion | he | immerse in | faith | he | immerse in | world
+it | impact | arts | them | affect | culture | it | impact | arts | it | impact | car
+it | impact | budget | they | change | spending | it | impact | budget | it | impact | children
+house | impeach | president | we | accuse | leader | house | impeach | president | house | impeach | criminal
+officials | impede | investigation | we | obstruct | research | officials | impede | investigation | officials | impede | development
+we | implement | resolution | it | execute | decision | we | implement | resolution | we | implement | withdrawal
+you | implement | landing | i | finish | launch | you | implement | landing | you | implement | suggestion
+they | import | pounds | i | export | dollars | they | import | pounds | they | import | television
+it | impose | law | we | perfect | rule | it | impose | law | it | impose | structure
+mayor | impose | tariffs | he | levy | taxes | mayor | impose | tariffs | mayor | impose | requirement
+i | impose | structure | he | strengthen | architecture | i | impose | structure | i | impose | blockade
+they | impose | penalty | i | give | award | they | impose | penalty | they | impose | curriculum
+it | impose | curriculum | teacher | intensify | teaching | it | impose | curriculum | it | impose | businessman
+it | impose on | length | magnifier | increase | size | it | impose on | length | it | impose on | enemy
+he | improve | condition | patient | promote | health | he | improve | condition | he | improve | monitoring
+we | improve | skills | you | enhance | technology | we | improve | skills | we | improve | element
+we | improve | efficiency | i | accelerate | rate | we | improve | efficiency | we | improve | quality
+i | improve | allocation | it | change | distribution | i | improve | allocation | i | improve | footwork
+he | improve | effort | we | increase | endeavor | he | improve | effort | he | improve | monitoring
+you | improve | habit | i | rejigger | behaviour | you | improve | habit | you | improve | screwdriver
+we | improve | situation | she | reverse | aspect | we | improve | situation | we | improve | chances
+we | improve | agility | it | raise | sensitivity | we | improve | agility | we | improve | health
+he | improve | reputation | i | heighten | popularity | he | improve | reputation | he | improve | image
+he | improve | economy | she | serve | finance | he | improve | economy | he | improve | lift
+it | include | software | they | embrace | hardware | it | include | software | it | include | blacks
+she | investigate | bartender | i | dispatch | bartender | she | investigate | bartender | she | investigate | effectiveness
+researchers | investigate | charges | they | examine | cases | researchers | investigate | charges | researchers | investigate | plant
+i | incorporate | technology | we | adopt | technique | i | incorporate | technology | i | incorporate | attractions
+he | incorporate | experiences | she | blend | knowledge | he | incorporate | experiences | he | incorporate | police
+it | increase | profitability | you | advance | profit | it | increase | profitability | it | increase | surveillance
+they | increase | participation | he | enhance | existence | they | increase | participation | they | increase | capitalization
+we | increase | productivity | he | enlarge | output | we | increase | productivity | we | increase | awareness
+they | increase | versatility | we | enhance | variety | they | increase | versatility | they | increase | population
+companies | increase | sales | you | raise | costs | companies | increase | sales | companies | increase | plant
+businesses | increase | plant | enterprises | expand | factories | businesses | increase | plant | businesses | increase | security
+administration | increase | fines | we | strengthen | punishment | administration | increase | fines | administrative | increased | establishment
+it | increase | advertising | we | make | propaganda | it | increase | advertising | it | increase | segregation
+he | increase | agreement | we | improve | contract | he | increase | agreement | he | increase | resistance
+she | increase | ridership | it | reinforce | load | she | increase | ridership | she | increase | spending
+it | increase | cap | it | augment | ceiling | it | increase | cap | it | increase | supply
+it | increase | supply | we | intensify | reinforcement | it | increase | supply | it | increase | services
+he | increase | share | organization | boost | welfare | he | increase | share | he | increase | accountability
+we | increase | focus | you | raise | attention | we | increase | focus | we | increase | enrollment
+she | increase | discount | we | elevate | rebate | she | increase | discount | she | increase | spending
+they | increase | scrutiny | we | gear up | check | they | increase | scrutiny | they | increase | ratio
+he | increase | broadcasts | she | add | advertisement | he | increase | broadcasts | he | increase | strength
+they | increase | status | i | upgrade | job | they | increase | status | they | increase | amount
+they | increase | law | i | perfect | rule | they | increase | law | they | increase | membership
+he | increase | revenue | i | raise | salary | he | increase | revenue | he | increase | appreciation
+they | increase | aid | you | send | assistance | they | increase | aid | they | increase | benefits
+he | influence | testimony | it | affect | evidence | he | influence | testimony | he | influence | postseason
+they | inform | father | we | tell | mot | they | inform | father | they | inform | investigators
+she | inform | board | he | report | regulators | she | inform | board | she | inform | pregnant
+we | initiate | rewards | i | start | encouragement | we | initiate | rewards | we | initiate | discussion
+i | inject | insulin | you | take | adrenalin | i | inject | insulin | i | inject | humour
+he | injuring | driver | i | hurt | passenger | he | injuring | driver | he | injuring | reputation
+auto | injuring | driver | bulldozer | hit | pedestrian | auto | injuring | driver | auto | injuring | economic
+she | insert | finger | he | stretch out | arm | she | insert | finger | she | insert | data
+he | insisting on | product | i | value | merchandise | he | insisting on | product | he | insisting on | innocence
+he | insisting | system | we | stick to | rule | he | insisting | system | he | insisting | war
+it | inspect | engine | i | check | part | it | inspect | engine | it | inspect | properties
+he | inspect | yacht | she | repair | plane | he | inspect | yacht | he | inspect | work
+she | inspire | women | we | hearten | student | she | inspire | women | she | inspire | loyalty
+i | install | cables | he | assemble | elevators | i | install | cables | i | install | president
+army | install | consoles | soldier | install | gauges | army | install | consoles | army | install | government
+we | institute | freeze | i | cool | down | we | institute | freeze | we | institute | policing
+he | insure | criticism | she | receive | comment | he | insure | criticism | he | insure | rights
+you | insure | victory | i | promise | win | you | insure | victory | you | insure | doom
+it | integrate | networks | they | synthesize | internet | it | integrate | networks | it | integrate | airplanes
+they | insure | solvency | he | pledge to | repay | they | insure | solvency | they | insure | safety
+they | integrate | resources | we | arrange | material | they | integrate | resources | they | integrate | products
+he | interest | chefs | i | attract | waiter | he | interest | chefs | he | interest | dog
+i | integrate | life | we | suit | live | i | integrate | life | i | integrate | purchasing
+he | interpret | law | she | explain | rule | he | interpret | law | he | interpret | dreams
+japan | intervene in | war | korea | refer to | turmoil | japan | intervene in | war | japan | intervene in | market
+we | interview | you | i | examine | interviewer | we | interview | you | we | interview | adviser
+they | intimidate | government | insurgents | threaten | refugees | they | intimidate | government | they | intimidate | vote
+it | introduce | racquet | commentator | explain | basketball | it | introduce | racquet | it | introduce | chips
+it | introduce | fixes | he | interpret | installation | it | introduce | fixes | it | introduce | measure
+she | introduce | programme | we | host | programs | she | introduce | programme | she | introduce | technology
+company | introduce | machine | they | recommend | equipment | company | introduce | machine | company | introduce | channel
+we | introduce | legislation | you | adopt | law | we | introduce | legislation | we | introduce | scotch
+they | invade | iraq | you | intrude | china | they | invade | iraq | they | invade | privacy
+i | invent | light | we | create | lamp | i | invent | light | i | invent | world
+they | invest in | mexico | i | export to | japan | they | invest in | mexico | they | invest in | technology
+it | invest in | years | we | operate | months | it | invest in | years | it | invest in | companies
+we | invest in | equity | we | reap | share | we | invest in | equity | it | invest in | europe
+we | investigate | licenses | he | check | legality | we | investigate | licenses | we | investigate | leaks
+department | investigate | leaks | you | inspect | repair | department | investigate | leaks | department | investigate | sale
+he | investigate | charges | officials | examine | suspicions | he | investigate | charges | he | investigate | cancer
+department | investigate | variety | we | surveyed | species | department | investigate | variety | department | investigate | allegations
+he | investigate | gunshots | we | research | bombardment | he | investigate | gunshots | he | investigate | organization
+you | invite | actors | i | request | artists | you | invite | actors | you | invite | troops
+we | invite | trouble | you | cause | bother | we | invite | trouble | we | invite | everybody
+he | invoke | mantra | i | spell | curse | he | invoke | mantra | he | invoke | actions
+it | involve | judgment | that | depends on | decision | it | involve | judgment | it | involve | traffickers
+he | involve in | philanthropy | she | works for | charity | he | involve in | philanthropy | he | involve in | performance
+you | irritate | skin | it | stimulate | heart | you | irritate | skin | you | irritate | wife
+we | isolate | china | you | seclude | germany | we | isolate | china | we | isolate | vibration
+it | issue | injunction | we | prohibit | travel | it | issue | injunction | it | issue | shares
+he | issue | cards | we | send | congratulation | he | issue | cards | he | issue | statement
+it | issue | protest | they | protest | policy | it | issue | protest | it | issue | paper
+he | issue | regulations | we | promulgate | bylaw | he | issue | regulations | he | issue | warning
+it | issue in | debt | they | publish | bonds | it | issue in | debt | it | issue in | transaction
+i | jeopardize | reputation | you | lose | popularity | i | jeopardize | reputation | i | jeopardize | success
+he | jeopardize | quality | we | endanger | mark | he | jeopardize | quality | he | jeopardize | government
+she | join | department | he | accede to | company | she | join | department | she | join | marines
+he | join | cast | i | act as | director | he | join | cast | he | join | quadrangle
+we | join | quadrangle | you | move into | villa | we | join | quadrangle | we | join | fight
+they | join | partners | we | affiliate | colleagues | they | join | partners | they | join | critics
+he | join | army | you | enter | troops | he | join | army | he | join | hands
+we | judge | situation | it | determine | condition | we | judge | situation | we | judge | conduct
+i | try | prisoners | he | judge | criminal | i | try | prisoners | i | try | experiment
+i | judge by | experience | we | decide by | analysis | i | judge by | experience | i | judge by | tonight
+i | jump on | conference | we | attend | meeting | i | jump on | conference | i | jump on | bed
+it | justify | segregation | he | prove | isolation | it | justify | segregation | it | justify | price
+he | justify | himself | you | defend | yourself | he | justify | himself | he | justify | existence
+you | keep | track | we | revise | trajectory | you | keep | track | you | keep | heads
+he | keep | working | i | continue | labour | he | keep | working | he | keep | right
+they | keep | role | he | maintain | part | they | keep | role | they | keep | ties
+he | keep | ties | they | preserve | communication | he | keep | ties | he | keep | costs
+we | keep | schedule | you | act as | plan | we | keep | schedule | we | keep | profile
+he | keep | memory | we | remember | feeling | he | keep | memory | he | keep | pace
+we | keep | fanatics | i | remain | enthusiastic | we | keep | fanatics | we | keep | memberships
+he | keep | job | she | promote | position | he | keep | job | he | keep | vision
+he | keep | virus | i | treat | disease | he | keep | virus | he | keep | fires
+man | keep | order | we | maintain | system | man | keep | order | man | keep | company
+it | keep | face | they | retain | prestige | it | keep | face | it | keep | chairman
+we | keep | deal | you | continue | cooperation | we | keep | deal | we | keep | simple
+it | keep | commitments | it | honor | commitments | it | keep | commitments | it | keep | availability
+you | keep | children | i | raise | offspring | you | keep | children | you | keep | staff
+he | keep | home | we | left | room | he | keep | home | he | keep | public
+we | keep | congestion | you | crowd | cars | we | keep | congestion | we | keep | home
+it | keep | deficit | i | continue | profit | it | keep | deficit | it | keep | samples
+i | keep | dignity | i | retain | pride | i | keep | dignity | he | keep | politics
+it | keep | incomes | they | maintains | revenue | it | keep | incomes | it | keep | profile
+they | keep | ringing | he | send | message | they | keep | ringing | they | keep | forces
+we | keep | innovating | she | promise | transform | we | keep | innovating | we | keep | classes
+we | keep | confidentiality | we | conceal | secret | we | keep | confidentiality | we | keep | innovating
+he | keep | spending | they | reduce | expense | he | keep | spending | he | keep | hours
+he | keep | hours | i | hold on | minutes | he | keep | hours | he | keep | neighbors
+they | keep | priority | we | occupy | precedence | they | keep | priority | they | keep | track
+i | keep | coin | she | save | change | i | keep | coin | i | keep | job
+we | keep | theme | i | continue | subject | we | keep | theme | we | keep | status
+you | keep | diary | i | make | notes | you | keep | diary | you | keep | operations
+i | keep in | prison | i | detain in | cell | i | keep in | prison | i | keep in | contact
+we | kick | goal | i | got | point | we | kick | goal | we | kick | ass
+fighter | kick | procession | soldiers | line | up | fighter | kick | procession | fighter | kick | trucks
+i | kid | wolf | we | tease | tiger | i | kid | wolf | i | kid | myself
+he | kill | musical | we | destroy | song | he | kill | musical | he | kill | anyone
+he | kill | president | she | assassinate | chairman | he | kill | president | he | kill | show
+they | kill | capitalism | you | stifle | communism | they | kill | capitalism | they | kill | employee
+i | knock | profession | you | switch | job | i | knock | profession | i | knock | dead
+i | kiss | parents | i | hug | wife | i | kiss | parents | i | kiss | goodbye
+you | know | symphony | he | master | classical | you | know | symphony | you | know | neighbors
+he | lack | stamina | she | reduce | patience | he | lack | stamina | he | lack | stomach
+they | lack | capacity | he | waste | technique | they | lack | capacity | they | lack | agenda
+he | lack | presence | she | left | scene | he | lack | presence | he | lack | balance
+we | lack in | jobs | you | lost | occupation | we | lack in | jobs | we | lack in | schools
+it | launch | campaign | i | initiate | movement | it | launch | campaign | it | launch | rocket
+we | launch | attacks | they | start | offensive | we | launch | attacks | we | launch | probe
+you | launch | company | i | establish | corporation | you | launch | company | you | launch | spacecraft
+he | lay | sort | you | sit on | ground | he | lay | sort | he | lay | matrix
+they | lay | arms | we | drop | weapon | they | lay | arms | they | lay | low
+he | lay | trap | they | fall into | trap | he | lay | trap | he | lay | weapons
+it | lay | claim | i | lodge | claim | it | lay | claim | it | lay | percent
+he | lay | agenda | you | make | plans | he | lay | agenda | he | lay | weeding
+he | lay | officers | i | dismiss | employee | he | lay | officers | he | lay | possessions
+they | lay | eggs | i | have | child | they | lay | eggs | they | lay | revolver
+we | lay | positions | you | pose | pose | we | lay | positions | we | lay | tiles
+he | lay | revolver | she | took out | weapons | he | lay | revolver | he | lay | agenda
+he | lead | game | we | guide | team | he | lead | game | he | lead | committee
+we | lead | negotiations | i | responsible for | conference | we | lead | negotiations | we | lead | lives
+he | lead | nation | i | head | country | he | lead | nation | he | lead | nets
+i | learn | craft | you | master | skills | i | learn | craft | i | learn | english
+we | learn | strategies | they | improve | method | we | learn | strategies | we | learn | dimmers
+she | learn | defense | you | practice | resistance | she | learn | defense | she | learn | japanese
+it | learn | programming | you | study | development | it | learn | programming | it | learn | offense
+i | learn | languages | they | master | culture | i | learn | languages | i | learn | swing
+he | learn | instrument | i | exercise | music | he | learn | instrument | he | learn | alphabet
+he | learn | guitar | i | study | violin | he | learn | guitar | he | learn | business
+you | leave | home | i | depart from | house | you | leave | home | you | leave | behind
+they | leave | property | we | stay | assets | they | leave | property | they | leave | street
+i | leave | ego | you | abandon | yourself | i | leave | ego | i | leave | country
+he | leave | legacy | we | leave over | estate | he | leave | legacy | he | leave | marsh
+he | leave | commentary | i | write | comment | he | leave | commentary | he | leave | house
+he | leave | office | she | resign | job | he | leave | office | he | leave | room
+she | leave | decisions | we | renounce | choice | she | leave | decisions | she | leave | collection
+she | leave | note | it | hold | clue | she | leave | note | she | leave | yale
+he | leave | chain | she | escape from | shackle | he | leave | chain | he | leave | lobby
+he | leave | congress | i | quit | parliament | he | leave | congress | he | leave | shares
+they | leave | business | he | quit | job | they | leave | business | they | leave | cuba
+i | lend | credence | we | believe | credit | i | lend | credence | i | lend | paintings
+he | liberate | sound | she | release | voice | he | liberate | sound | he | liberate | country
+they | license | patents | i | authorize | technology | they | license | patents | they | license | publishers
+she | lift | embargo | you | suspend | ban | she | lift | embargo | she | lift | veil
+it | lift | spirits | he | inspired | himself | it | lift | spirits | it | lift | itself
+you | lift | symptoms | they | relieve | disease | you | lift | symptoms | you | lift | power
+he | lift | sanctions | she | stop | punishment | he | lift | sanctions | he | lift | states
+we | light | room | you | illuminate | house | we | light | room | we | light | subjects
+we | limit | visitors | you | restrict | customer | we | limit | visitors | we | limit | contributions
+senate | limit | debate | we | forbid | discussion | senate | limit | debate | senate | limit | ability
+i | keep | focus | i | attract | spotlight | i | keep | focus | i | keep | family
+they | keep | government | we | maintain | country | they | keep | government | they | keep | track
+they | keep | home | i | stay | home | they | keep | home | they | keep | simple
+she | keep | perspective | you | need | patience | she | keep | perspective | she | keep | peace
+it | keep | hallucinations | they | produce | delusion | it | keep | hallucinations | it | keep | management
+i | keep | fish | you | raise | dog | i | keep | fish | i | keep | peace
+he | keep | faith | we | firm | will | he | keep | faith | he | keep | measure
+they | keep | friends | we | make | mates | they | keep | friends | they | keep | rings
+she | keep | money | he | saves | gold | she | keep | money | she | keep | focus
+they | keep | hammock | we | install | bed | they | keep | hammock | they | keep | face
+they | keep | rallies | we | throw | party | they | keep | rallies | they | keep | order
+he | keep | family | i | support | household | he | keep | family | he | keep | safe
+she | keep | mind | i | refresh | head | she | keep | mind | she | keep | whiskey
+they | keep | order | we | maintain | rule | they | keep | order | they | keep | members
+she | keep | priorities | i | possess | preemption | she | keep | priorities | she | keep | temper
+i | keep | track | you | hide | whereabouts | i | keep | track | i | keep | bonds
+he | keep | windfall | she | make | money | he | keep | windfall | he | keep | focus
+she | keep | concentrate | he | firm | attention | she | keep | concentrate | she | keep | seat
+he | keep | commitment | i | abide by | agreement | he | keep | commitment | he | keep | majority
+he | keep | cash | we | save | money | he | keep | cash | he | keep | control
+we | keep | word | you | shut | up | we | keep | word | we | keep | plants
+they | keep | monopoly | we | corner | market | they | keep | monopoly | they | keep | lights
+they | keep | immigrants | we | retain | refugee | they | keep | immigrants | they | keep | talks
+she | keep | insurance | i | buy | assurance | she | keep | insurance | she | keep | job
+it | keep | bread | that | store | cake | it | keep | bread | it | keep | regulation
+he | list | accomplishments | i | enumerate | result | he | list | accomplishments | he | list | charges
+we | listen on | music | i | watch | concerts | we | listen on | music | we | listen to | witnesses
+i | locate | mausoleum | we | find | tomb | i | locate | mausoleum | it | locate | mention
+he | lose | pounds | i | reduce | weight | he | lose | pounds | he | lose | family
+you | lose | job | we | quit | occupation | you | lose | job | you | lose | charm
+it | lose | credibility | they | abandon | integrity | it | lose | credibility | it | lose | yen
+he | lose | locks | she | miss | key | he | lose | locks | he | lose | accent
+i | love | irony | we | like | ridicule | i | love | irony | i | love | salmon
+you | love | commitment | i | used to | promise | you | love | commitment | you | love | solitude
+it | lure | buyers | they | attract | users | it | lure | buyers | it | lure | tourists
+he | maintain | relationship | she | preserve | communion | he | maintain | relationship | he | maintain | quality
+he | maintain | edge | you | lead | others | he | maintain | edge | he | maintain | independence
+she | maintain | weight | i | control | stature | she | maintain | weight | she | maintain | stockpile
+he | maintain | patent | i | apply for | monopoly | he | maintain | patent | he | maintain | composure
+it | maintain | mall | he | operate | shop | it | maintain | mall | it | maintain | cheerfulness
+i | maintain | morale | we | boost | momentum | i | maintain | morale | i | maintain | tradition
+you | make | lot | i | earn | profit | you | make | lot | you | make | plans
+we | make | order | you | place | order | we | make | order | we | make | playoffs
+we | make | decision | i | decide | option | we | make | decision | we | make | improvements
+they | make | movies | we | shoot | program | they | make | movies | they | make | adjustments
+she | make | pizza | i | cook | staple | she | make | pizza | she | make | decisions
+he | make | trip | we | go | travel | he | make | trip | he | make | improvements
+i | make | sentence | she | write | articles | i | make | sentence | i | make | money
+you | make | headway | we | obtain | progress | you | make | headway | you | make | comment
+we | make | fun | i | crack | joke | we | make | fun | we | make | bombs
+i | make | issue | we | ask | questions | i | make | issue | i | make | decision
+she | make | report | he | give | lecture | she | make | report | she | make | mistakes
+we | make | furniture | i | design | decoration | we | make | furniture | we | make | progress
+they | make | plays | we | perform | drama | they | make | plays | they | make | peace
+you | make | mission | we | accomplish | task | you | make | mission | you | make | tender
+we | make | houses | you | build | apartments | we | make | houses | we | make | rally
+they | make | vaccine | we | develop | drugs | they | make | vaccine | they | make | reservations
+you | make | sandwich | i | cook | breakfast | you | make | sandwich | you | make | profit
+i | make | break | he | take | rest | i | make | break | i | make | choice
+we | make | request | they | send | application | we | make | request | we | make | deal
+she | make | notes | he | keep | diary | she | make | notes | she | make | film
+he | make | statement | i | issue | declaration | he | make | statement | he | make | album
+you | make | team | we | form | organization | you | make | team | you | make | comparisons
+we | make | robot | they | design | machinery | we | make | robot | we | make | sense
+it | make | repairs | you | provide | maintenance | it | make | repairs | it | make | team
+they | make | model | we | design | appearance | they | make | model | they | make | choices
+company | make | brands | we | build | products | company | make | brands | company | make | room
+it | make | leader | i | represent | team | it | make | leader | it | make | sense
+he | make | comment | she | critique | review | he | make | comment | he | make | changes
+he | make | clothes | i | cut | garments | he | make | clothes | he | make | case
+she | make | predictions | we | predict | future | she | make | predictions | she | make | bill
+we | make | attempt | i | try | acceptance | we | make | attempt | we | make | music
+he | manage | shop | she | runs | supermarket | he | manage | shop | he | manage | demands
+she | manage | illness | i | cure | disease | she | manage | illness | she | manage | funds
+it | manipulates | ideas | they | control | mind | it | manipulates | ideas | it | manipulate | election
+he | manufacture | devices | we | makes | equipment | he | manufacture | devices | he | manufacture | excitement
+it | mark | beginning | they | mean | end | it | mark | beginning | it | mark | time
+they | master | material | we | collect | evidence | they | master | material | they | master | tools
+i | master | art | she | grasp | technology | i | master | art | i | master | roles
+it | match | climate | that | fit | weather | it | match | climate | it | match | studies
+we | maximize | production | factor | expand | scale | we | maximize | production | we | maximize | talent
+we | measure | risk | i | assess | venture | we | measure | risk | we | measure | world
+it | measure | effect | i | evaluate | result | it | measure | effect | it | measure | reverberations
+we | meet | concerns | you | have | problems | we | meet | concerns | we | meet | demand
+it | meet | obligations | i | fulfil | duty | it | meet | obligations | it | meet | forecast
+they | meet | goals | she | achieve | target | they | meet | goals | they | meet | needs
+he | meet | rules | it | conforms | regulation | he | meet | rules | he | meet | dam
+i | meet | patient | she | satisfy | invalid | i | meet | patient | i | meet | children
+you | meet | challenge | i | challenge | risk | you | meet | challenge | you | meet | guy
+he | meet | expectations | she | fulfill | expectation | he | meet | expectations | he | meet | requirements
+she | meet | obligation | i | perform | obligation | she | meet | obligation | she | meet | investigators
+we | meet | opponent | i | encounter | enemy | we | meet | opponent | we | meet | responsibilities
+we | meet | mandate | you | receive | mission | we | meet | mandate | we | meet | standards
+he | mend | relationship | we | maintain | friendship | he | mend | relationship | he | mend | fences
+he | merge | witter | i | blend | wisdom | he | merge | witter | he | merge | affiliate
+we | minimize | smell | i | dispel | odors | we | minimize | smell | we | minimize | fatigue
+it | minimize | waste | we | eliminate | squander | it | minimize | waste | it | minimize | emissions
+we | minimize | risk | he | mitigate | venture | we | minimize | risk | we | minimize | impact
+he | minimize | threat | we | ensure | security | he | minimize | threat | we | minimize | inconvenience
+it | monitor | operations | i | supervise | business | it | monitor | operations | it | monitor | network
+she | mount | campaign | he | launch | parade | she | mount | campaign | she | mount | exhibitions
+he | name | successor | i | appoint | chairman | he | name | successor | he | name | districts
+we | name | professor | he | designate | scholar | we | name | professor | we | name | names
+we | need | managers | you | want | leader | we | need | managers | we | need | cables
+i | need | partnership | you | envision | cooperation | i | need | partnership | i | need | plays
+he | need | break | she | demand | ease | he | need | break | he | need | resources
+we | need | healthy | i | keep | physique | we | need | healthy | we | need | rebound
+he | need | determination | i | make up | mind | he | need | determination | he | need | support
+you | need | police | we | find | cop | you | need | police | you | need | guidance
+it | negotiate | terms | they | transact | contract | it | negotiate | terms | it | negotiate | cease-fire
+he | negotiate | incentives | she | discussed | reward | he | negotiate | incentives | he | negotiate | settlement
+he | obey | law | i | keep | rule | he | obey | law | he | obey | order
+they | obtain | arms | people | get | gun | they | obtain | arms | they | obtain | rates
+i | obtain | idea | we | propose | thought | i | obtain | idea | i | obtain | implementation
+he | offer | clothing | it | provide | costume | he | offer | clothing | he | offer | system
+we | offer | treatment | you | cure | patient | we | offer | treatment | we | offer | details
+he | offer | benefit | company | supply | welfare | he | offer | benefit | he | offer | chance
+he | open | restaurant | she | run | hotel | he | open | restaurant | he | open | office
+it | open | exhibition | we | start | show | it | open | exhibition | it | open | doors
+it | operate | plane | we | drive | tank | it | operate | plane | it | operate | apartment
+he | oppose | agreement | we | disagree | contract | he | oppose | agreement | he | oppose | charter
+they | order | owner | i | command | soldier | they | order | owner | they | order | food
+he | organize | financing | she | provide | fund | he | organize | financing | he | organize | union
+she | organize | meetings | we | establish | conference | she | organize | meetings | she | organize | providers
+it | oust | board | i | dismiss | director | it | oust | board | it | oust | dictator
+she | overcome | errors | we | defeat | mistake | she | overcome | errors | she | overcome | inconsistency
+they | overcome | record | you | break | achievement | they | overcome | record | they | overcome | troubles
+it | overcome | problems | i | solve | question | it | overcome | problems | it | overcome | deficit
+it | overcome | shyness | that | conquer | worries | it | overcome | shyness | it | overcome | fees
+he | oversee | cutback | i | supervise | saving | he | oversee | cutback | he | oversee | expansion
+she | oversee | company | he | control | operations | she | oversee | company | she | oversee | rescue
+it | overturn | rule | it | repudiate | policy | it | overturn | rule | it | overturn | car
+he | paint | sailboats | we | design | sailboat | he | paint | sailboats | he | paint | front
+he | participate in | conspiracy | i | design | cabal | he | participate in | conspiracy | he | participate in | project
+they | participate in | summit | he | attend | meeting | they | participate in | summit | they | participate in | organization
+i | participate in | dance | you | join | show | i | participate in | dance | i | participate in | review
+it | pass | sensor | that | feedback | transducer | it | pass | sensor | it | pass | law
+we | pass | exams | i | succeed in | test | we | pass | exams | we | pass | legislation
+they | pass | plan | you | endorse | strategy | they | pass | plan | they | pass | round
+i | pay | attention | we | improve | wakefulness | i | pay | attention | i | pay | rent
+i | pay | penance | we | repeat | mistake | i | pay | penance | i | pay | ticket
+they | pay | commissions | you | offer | salary | they | pay | commissions | they | pay | fine
+they | pay | bribe | we | take | bribery | they | pay | bribe | they | pay | room
+he | pay | debt | i | repay | loan | he | pay | debt | he | pay | dancers
+you | pay | tuition | i | spend | tuition | you | pay | tuition | you | pay | debt
+they | perform | chores | we | do | housework | they | perform | chores | they | perform | music
+he | perform | role | i | play | drama | he | perform | role | he | perform | music
+she | perform | arrangements | i | obey | orders | she | perform | arrangements | she | perform | songs
+he | perform | miracles | you | create | wonder | he | perform | miracles | he | perform | act
+we | permit | lawsuit | judges | allow | litigation | we | permit | lawsuit | we | permit | vote
+he | persuade | homeowners | i | lobby | landlord | he | persuade | homeowners | he | persuade | republicans
+he | persuade | courts | you | plead with | judge | he | persuade | courts | he | persuade | army
+i | pick | team | we | choose | organization | i | pick | team | i | pick | stylus
+i | pick | beans | you | grow | apple | i | pick | beans | i | pick | papers
+we | pick | hotel | they | live in | rummery | we | pick | hotel | we | pick | child
+you | pick | battles | i | decide to | fight | you | pick | battles | you | pick | apples
+they | pick | share | we | choose | participation | they | pick | share | they | pick | children
+we | pick | slack | i | decide | relaxation | we | pick | slack | we | pick | diploma
+i | pick | garbage | she | recycle | rubbish | i | pick | garbage | i | pick | wife
+i | pick | rifle | you | raise | pistol | i | pick | rifle | i | pick | losers
+he | pick | pocketbook | she | buy | wallet | he | pick | pocketbook | he | pick | context
+she | pick | fruit | we | harvest | food | she | pick | fruit | she | pick | game
+we | pick | votes | i | acknowledge | election | we | pick | votes | we | pick | ball
+i | pitch | sponsorship | we | promote | support | i | pitch | sponsorship | i | pitch | inning
+he | place | workers | she | settle | staff | he | place | workers | he | place | call
+they | plan | bombings | we | implement | cannonade | they | plan | bombings | they | plan | wedding
+she | plant | crops | they | cultivate | land | she | plant | crops | she | plant | hedge
+he | play | impact | i | work | role | he | play | impact | he | play | sports
+he | play | judge | she | act | police | he | play | judge | he | play | tennis
+i | play | trombone | you | listen | piano | i | play | trombone | i | play | game
+i | play | defense | we | organize | attack | i | play | defense | i | play | years
+he | play | guard | i | try | forwards | he | play | guard | he | play | lottery
+they | play | suggestion | you | make | proposal | they | play | suggestion | they | play | defense
+he | play | night | she | squat | night | he | play | night | he | play | sunday
+he | play | trick | they | carry out | ruse | he | play | trick | he | play | coward
+i | play | football | we | kick | soccer | i | play | football | i | play | game
+he | play | series | she | act | opera | he | play | series | he | play | streetcar
+i | play | agency | you | answer for | dealers | i | play | agency | i | play | field
+he | please | conservatives | she | delight | moderates | he | please | conservatives | he | please | everyone
+we | plow | cash | you | squander | property | we | plow | cash | we | plow | land
+i | pop | aspirin | she | take | medicine | i | pop | aspirin | i | pop | corks
+he | portray | sinners | we | describe | criminal | he | portray | sinners | he | portray | tax
+he | portray | dynamism | she | abound with | vitality | he | portray | dynamism | he | portray | problems
+it | post | earnings | that | releases | revenue | it | post | earnings | it | post | decline
+he | postpone | meeting | we | delay | conference | he | postpone | meeting | he | postpone | honeymoon
+we | pour | readings | i | read | backwards | we | pour | readings | we | pour | snack
+he | practice | democracy | we | implement | dictatorship | he | practice | democracy | he | practice | law
+he | predict | data | she | calculate | record | he | predict | data | he | predict | future
+they | predict | victory | we | prophesy | win | they | predict | victory | they | predict | scope
+they | predict | course | you | estimate | schedule | they | predict | course | they | predict | invasion
+he | predict | date | we | calculate | time | he | predict | date | he | predict | likelihood
+they | prefer | talk | she | enjoy | communication | they | prefer | talk | they | prefer | disco
+it | prepare | forces | they | convene | army | it | prepare | forces | it | prepare | proposal
+he | prepare | plan | you | make | project | he | prepare | plan | he | prepare | specimens
+it | prepare | specimens | i | make | models | it | prepare | specimens | it | prepare | positions
+it | prepare | meal | she | cook | dinner | it | prepare | meal | it | prepare | ingredients
+she | prepare | cookies | i | put | snacks | she | prepare | cookies | she | prepare | evidence
+he | prepare | returns | she | repay | benefactor | he | prepare | returns | he | prepare | plan
+he | prepare | proposal | you | organize | suggestion | he | prepare | proposal | he | prepare | meals
+she | present | issues | he | asked | questions | she | present | issues | she | present | image
+i | present | viewpoint | we | propose | idea | i | present | viewpoint | i | present | information
+we | present | ourselves | you | show | yourself | we | present | ourselves | we | present | picture
+they | present | evidence | we | collect | proof | they | present | evidence | they | present | portrait
+they | present | proposals | you | make | advice | they | present | proposals | they | present | testimony
+he | present | vision | she | propose | expectation | he | present | vision | he | present | himself
+it | preserve | record | we | keep | achievement | it | preserve | record | it | preserve | character
+he | preserve | intrigue | i | hide | conspiracy | he | preserve | intrigue | he | preserve | remnants
+we | preserve | tradition | i | stick to | custom | we | preserve | tradition | we | preserve | record
+they | preserve | character | we | insist on | intention | they | preserve | character | they | preserve | anonymity
+he | preserve | interests | she | defend | hobby | he | preserve | interests | he | preserve | integrity
+we | preserve | building | we | protect | architecture | we | preserve | building | we | preserve | bulk
+they | preserve | chance | we | reserve | opportunity | they | preserve | chance | they | preserve | quality
+we | preserve | relationship | you | maintain | affection | we | preserve | relationship | we | preserve | areas
+it | press | guards | i | call | police | it | press | guards | it | press | charges
+he | pressure | customers | i | repress | client | he | pressure | customers | he | pressure | engine
+they | prevent | deal | we | stop | trading | they | prevent | deal | they | prevent | problems
+she | prevent | erosion | we | avoid | corrosion | she | prevent | erosion | she | prevent | blackout
+we | prevent | noise | i | isolated | wrangle | we | prevent | noise | we | prevent | loss
+it | prevent | bloodshed | that | stop | bleeding | it | prevent | bloodshed | it | prevent | aids
+he | prevent | transfer | she | control | shift | he | prevent | transfer | he | prevent | landfill
+it | prevent | crimes | that | foretell | evil | it | prevent | crimes | it | prevent | transfer
+he | prevent | public | she | stop | crowd | he | prevent | public | he | prevent | atmosphere
+he | prevent | violence | people | eradicate | accident | he | prevent | violence | he | prevent | fraud
+it | process | mortgages | i | apply for | loan | it | process | mortgages | it | process | card
+it | process | claims | you | handle | compensation | it | process | claims | it | process | charge
+he | proclaim | guilt | she | declare | jail | he | proclaim | guilt | he | proclaim | emergency
+it | produce | car | we | assemble | vehicles | it | produce | car | it | produce | explosion
+it | produce | immunity | this | increases | resistance | it | produce | immunity | it | produce | cards
+he | produce | tape | you | make | glue | he | produce | tape | he | produce | readable
+we | produce | success | you | make | triumph | we | produce | success | we | produce | particle
+it | produce | planes | we | design | aircraft | it | produce | planes | it | produce | articles
+i | produce | music | she | compose | song | i | produce | music | i | produce | notes
+they | produce | game | i | manufacture | application | they | produce | game | they | produce | documentary
+he | promote | company | i | peddle | business | he | promote | company | he | promote | dramas
+he | promote | notion | we | advocate | idea | he | promote | notion | he | promote | export
+we | promote | classes | people | encourage | education | we | promote | classes | we | promote | image
+we | promote | peace | you | keep | struggle | we | promote | peace | we | promote | opportunity
+he | promote | technology | we | advance | technique | he | promote | technology | he | promote | policy
+i | promote | wellness | they | boost | health | i | promote | wellness | i | promote | benefit
+he | propose | regulations | she | make | provision | he | propose | regulations | he | propose | legislation
+we | protect | positions | i | retain | job | we | protect | positions | we | protect | people
+i | protect | store | we | defend | supermarket | i | protect | store | i | protect | ball
+he | protest | summit | i | oppose | meeting | he | protest | summit | he | protest | raid
+people | protest | vote | we | resist | election | people | protest | vote | people | protest | layoffs
+they | prove | guilt | he | confirm | culpability | they | prove | guilt | they | prove | points
+it | provide | medicare | that | offer | insurance | it | provide | medicare | it | provide | prognosis
+he | provide | promise | she | swear | oath | he | provide | promise | he | provide | details
+it | provide | water | there | serve | drink | it | provide | water | it | provide | voters
+he | provide | precedent | you | set | example | he | provide | precedent | he | provide | estimates
+i | provide | warnings | we | prompt | danger | i | provide | warnings | i | provide | licenses
+he | provide | energy | it | supply | power | he | provide | energy | he | provide | coverage
+he | pull | trigger | i | start | firing | he | pull | trigger | he | pull | performance
+they | punch | writers | we | hit | editor | they | punch | writers | they | punch | hole
+he | punish | criminals | you | execute | prisoner | he | punish | criminals | he | punish | cheat
+he | purchase | corporation | we | acquire | enterprises | he | purchase | corporation | he | purchase | ticket
+she | pursue | interests | i | seek | benefit | she | pursue | interests | she | pursue | rumors
+she | pursue | dream | i | realize | desire | she | pursue | dream | she | pursue | legislation
+he | push | authorities | he | promotes | situation | he | push | authorities | he | push | truck
+it | push | price | that | drive | economy | it | push | price | it | push | bills
+they | push | changes | we | promote | reform | they | push | changes | they | push | advantage
+i | put | restrictions | he | impose | restraint | i | put | restrictions | i | put | binoculars
+he | quell | uproar | i | clam | mentality | he | quell | uproar | he | quell | rioting
+i | question | strategy | you | interrogate | project | i | question | strategy | i | question | ability
+he | question | motives | you | doubt | incentive | he | question | motives | he | question | limits
+she | quit | job | i | leave | work | she | quit | job | she | quit | effort
+he | quit | game | we | abandon | competition | he | quit | game | he | quit | job
+we | raise | money | they | prepare | funds | we | raise | money | we | raise | standard
+they | raise | objections | we | oppose | proposal | they | raise | objections | they | raise | outlays
+it | raise | quality | that | improve | performance | it | raise | quality | it | raise | price
