@@ -42,6 +42,8 @@ For the transitive sentence similarity task, run this script:
 
 - `eval_transitive_sentence_similarity.py`
 
+For the script event prediction task, see [this repository](https://github.com/MagiaSN/ConstructingNEEG_IJCAI_2018).
+
 ## Models
 
 The best model for each task can be downloaded [here](https://drive.google.com/open?id=1seOoilUdx4E3D9nKQiT9xZuWStgr8GXm).
