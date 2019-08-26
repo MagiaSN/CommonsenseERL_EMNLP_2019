@@ -18,7 +18,7 @@ The pretrained word embedding can be downloaded [here](https://drive.google.com/
 
 ## Preprocessing
 
-See [this](https://github.com/MagiaSN/commonsense_event_repr_emnlp19/blob/master/preproc/README.md).
+See [this](https://github.com/MagiaSN/CommonsenseERL_EMNLP_2019/blob/master/preproc/README.md).
 
 ## Train
 
