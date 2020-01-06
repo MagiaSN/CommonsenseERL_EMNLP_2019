@@ -14,7 +14,7 @@ The original hard similarity dataset, the hard similarity dataset annotated by u
 
 NYT, ATOMIC and other datasets need to be downloaded separately.
 
-The pretrained word embedding can be downloaded [here](https://drive.google.com/open?id=1Jw-X-mVci5VbKg0Gl0ZRRwhgfgyiZ7Vc). We add embeddings for word "PersonX" and "PersonY" to the original Glove word embedding.
+The pretrained word embedding can be downloaded from [google drive](https://drive.google.com/open?id=1Jw-X-mVci5VbKg0Gl0ZRRwhgfgyiZ7Vc) or [baidu netdisk](https://pan.baidu.com/s/1VqGYRuLwEXhK9QXoOboAsg). We add embeddings for word "PersonX" and "PersonY" to the original Glove word embedding.
 
 ## Preprocessing
 
@@ -46,4 +46,4 @@ For the script event prediction task, see [this repository](https://github.com/M
 
 ## Models
 
-The best model for each task can be downloaded [here](https://drive.google.com/open?id=1seOoilUdx4E3D9nKQiT9xZuWStgr8GXm).
+The best model for each task can be downloaded from [google drive](https://drive.google.com/open?id=1seOoilUdx4E3D9nKQiT9xZuWStgr8GXm) or [baidu netdisk](https://pan.baidu.com/s/1DqEVPhoubRQL7-ceCU6uMw).
