@@ -46,4 +46,4 @@ For the script event prediction task, see [this repository](https://github.com/M
 
 ## Models
 
-The best model for each task can be downloaded from [google drive](https://drive.google.com/open?id=1seOoilUdx4E3D9nKQiT9xZuWStgr8GXm) or [baidu netdisk](https://pan.baidu.com/s/1DqEVPhoubRQL7-ceCU6uMw).
+The best model for each task can be downloaded from [google drive](https://drive.google.com/open?id=1seOoilUdx4E3D9nKQiT9xZuWStgr8GXm) or [baidu netdisk](https://pan.baidu.com/s/1DqEVPhoubRQL7-ceCU6uMw). The Lowrank model is uploaded at this [baidu netdisk](https://pan.baidu.com/s/1yT5OIDCea6Cp05ls9ylrQA) with password w4si
